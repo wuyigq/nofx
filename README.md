@@ -1,3 +1,14 @@
+---
+title: Nofx
+emoji: 🐨
+colorFrom: pink
+colorTo: red
+sdk: docker
+pinned: false
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
 # 🤖 NOFX - Agentic Trading OS
 
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)](https://golang.org/)
